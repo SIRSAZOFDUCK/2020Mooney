@@ -1,6 +1,6 @@
 ## Primary care prescribing and socioeconomic deprivation in England, 2019 
-## Jess Mooney, Roger Yau, Farah Kidy, Sarah Hillman & Saran Shantikumar (May 2020) 
-## Contact: saran.shantikumar@gmail.com
+## Jess Mooney & Saran Shantikumar (May 2020) 
+## Contact: saran.shantikumar@warwick.ac.uk
 
 rm(list = ls())
 
